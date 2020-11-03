@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.scichart:charting3d:release@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c353a116ae265672f8cc4a82113b71a3/jetified-charting3d-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c353a116ae265672f8cc4a82113b71a3/jetified-charting3d-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c353a116ae265672f8cc4a82113b71a3/jetified-charting3d-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

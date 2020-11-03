@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.scichart:drawing:release@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2dcc2bc438ff91dfb4e81423b7b7ff81/jetified-drawing-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ebaff97d1910d66efec2eabe2d17f4e/jetified-drawing-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ebaff97d1910d66efec2eabe2d17f4e/jetified-drawing-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ebaff97d1910d66efec2eabe2d17f4e/jetified-drawing-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

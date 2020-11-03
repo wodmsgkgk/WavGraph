@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.scichart:extensions:release@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb49002e6380677403d0b050bbd02f47/jetified-extensions-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54b11ac7c34acb0c7d5ced229ec104c6/jetified-extensions-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54b11ac7c34acb0c7d5ced229ec104c6/jetified-extensions-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54b11ac7c34acb0c7d5ced229ec104c6/jetified-extensions-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
