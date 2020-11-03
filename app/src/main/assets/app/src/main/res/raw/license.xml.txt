@@ -1,3 +1,0 @@
-<LicenseContract> 
-Replace all this with the full xml of your licence key. 
-</LicenseContract> 
