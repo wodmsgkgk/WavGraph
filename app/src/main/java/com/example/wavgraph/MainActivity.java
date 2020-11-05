@@ -7,6 +7,9 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
 
+import java.io.File;
+import java.net.URISyntaxException;
+
 public class MainActivity extends AppCompatActivity {
     static final int REQUEST_AUDIO_OPEN = 1;
 
@@ -28,8 +31,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == REQUEST_AUDIO_OPEN && resultCode == RESULT_OK) {
-            Uri fullPhotoUri = data.getData();
-            Log.d("wodms", "uri : "+fullPhotoUri);
+            Uri uri = data.getData();
+            File file = new File(uri.getPath());//create path from uri
+            Log.d("wodms", "uri : " + uri + ", file : " + PathUtil.getPath(this, uri));
         }
     }
 }
